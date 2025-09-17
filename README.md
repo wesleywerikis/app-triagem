@@ -110,9 +110,3 @@ Ao iniciar, o app mostra:
 `java` `java17` `maven` `oop` `healthcare` `triage-system` `data-structures` `algorithms` `console-application`
 
 ---
-
-## 📄 Licença
-Este projeto pode ser distribuído sob a licença de sua preferência (ex.: MIT).  
-Sinta-se à vontade para abrir **issues** e **PRs**. ✨
-
----
